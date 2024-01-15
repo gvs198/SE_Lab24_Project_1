@@ -124,5 +124,5 @@ features to be implemented are few, it is assumed that adhering to the
 specifications of this document will ensure a user-friendly experience
 by default.
 
-
+![Blank diagram](https://github.com/gvs198/SE_Lab24_Project_1/assets/115711727/00894b1e-eae1-469e-85bc-1fd2a13d7627)
 
